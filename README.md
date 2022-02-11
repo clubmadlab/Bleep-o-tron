@@ -12,6 +12,6 @@ MIDI functionality is provided by DryWetMIDI - a .NET library to work with MIDI 
 
 Schematic, PCB, firmware and app by James Hutchby (c) 2022
 
-james@madlab.org
-www.madlab.org
+james@madlab.org  
+www.madlab.org  
 @clubmadlab
